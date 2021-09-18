@@ -13,6 +13,18 @@ We, at **GDSC BBSBEC**, intend to build and enhance the development skills and k
 # Our Vision
 > To help students bridge the gap between theory and practice.
 
+## Handles
+
+| Domain | Lead Name | Contact |
+|--|--|--|
+| GDSC BBSBEC | Mehakdeep Kaur | [ <img align='left' width='40px' alt= 'LinkedIn Contact' src="https://i.imgur.com/pjh9CcE.png" /> ](https://www.linkedin.com/in/mehak925/) |
+| Management | Harjas Kaur Ratol | [<img align='left' width='40px' alt= 'LinkedIn Contact' src="https://i.imgur.com/pjh9CcE.png" /> ](https://www.linkedin.com/in/harjaskaurratol/) |
+| Media & Creative | Mansi Kashyap | [<img align='left' width='40px' alt= 'LinkedIn Contact' src="https://i.imgur.com/pjh9CcE.png" /> ](https://www.linkedin.com/in/mansi-kashyap/) |
+| Artificial Intelligence / Machine Learning | Harnoor Kaur Khehra | [<img align='left' width='40px' alt= 'LinkedIn Contact' src="https://i.imgur.com/pjh9CcE.png" /> ](https://www.linkedin.com/in/harnoorkaurkhehra/) |
+| Web Development | Ikjot Singh | [<img align='left' width='40px' alt= 'LinkedIn Contact' src="https://i.imgur.com/pjh9CcE.png" /> ](https://www.linkedin.com/in/ikjotsingh06/) |
+| App Development | Hemant Sachdeva | [<img align='left' width='40px' alt= 'LinkedIn Contact' src="https://i.imgur.com/pjh9CcE.png" /> ](https://www.linkedin.com/in/Hemant-Sachdeva) |
+| Competetive Programming / Data Structures & Algorithms | Taranpreet Kaur | [<img align='left' width='40px' alt= 'LinkedIn Contact' src="https://i.imgur.com/pjh9CcE.png" /> ](https://www.linkedin.com/in/taranpreetkaur05) |
+
 ### Event Updates
 [ <img align='left' width='60px' alt= 'GDSC Platform' src="https://i.imgur.com/UiDiFcY.png" />](https://gdsc.community.dev/baba-banda-singh-bahadur-engineering-college-fatehgarh-sahib/)
 [ <img align='left' width='40px' alt= 'LinkedIn Hanlde' src="https://i.imgur.com/pjh9CcE.png" /> ](https://linkedin.com/company/GDSC-BBSBEC)
