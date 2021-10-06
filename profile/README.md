@@ -1,4 +1,4 @@
-[![GDSC-BBSBEC](https://github.com/GDSC-BBSBEC/events/raw/events/CurtainRaiser/img/GDSC-BBSBEC.png)](https://gdsc.community.dev/baba-banda-singh-bahadur-engineering-college-fatehgarh-sahib/)
+[![GDSC-BBSBEC](https://github.com/gdsc-bbsbec/.github/blob/BBSBEC/assets/banner.png)](https://gdsc.community.dev/baba-banda-singh-bahadur-engineering-college-fatehgarh-sahib/)
 We, at **GDSC BBSBEC**, intend to build and enhance the development skills and knowledge of students. It's a club where we learn and create amazing stuff together with other inquisitive developers and exhilarate everyone to their core. Our motto is to learn the necessary skills and collaborate and contribute to building solutions for real-world problems.
 
 
